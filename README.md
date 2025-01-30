@@ -1,0 +1,1 @@
+A Project to Operate The Red Led and Green Led According to Specific Conditions so that the Red Led Works Four Times Within four Seconds and Green Twice during two seconds and the two Leds works with each other and without using delay functions.

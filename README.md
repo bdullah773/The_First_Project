@@ -43,8 +43,6 @@ if (currentMillis1 - previousMillisGreen1 >= intervalGreen)
 ~~~
 This attempts to turn off the LED after a specific interval (intervalGreen).
 
-However, previousMillisGreen1 is not defined or updated in the provided code, so this logic will not work as intended.
-
 
 ---
 
